@@ -59,6 +59,41 @@ I'm **Kushagra Pandey**, a Software Engineer focused on backend development, sca
 | DevOps | Docker, AWS, CI/CD, deployment |
 
 ---
+---
+
+## 🎮 Featured Project
+
+<div align="center">
+
+### 🃏 HideTheBall
+
+A strategy and psychological bluffing game where players hide a treasure bag under cups and try to outsmart their opponent.
+
+**Think. Bluff. Outsmart. Win.**
+
+<a href="YOUR_HIDETHEBALL_LINK">
+  <img src="https://img.shields.io/badge/▶%20PLAY%20MY%20GAME-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+**Open to exciting Software Engineering opportunities and collaborations.**
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ## 📊 GitHub Statistics
 
