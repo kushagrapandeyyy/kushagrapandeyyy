@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=190&section=header&text=Kushagra%20Pandey&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=17" width="100%"/>
 
@@ -23,21 +23,25 @@ I'm **Kushagra Pandey**, a Software Engineer focused on backend development, sca
 ## ⚙️ Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql"/>
 </p>
 
 ### Backend & Frameworks
+
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,react"/>
 </p>
 
 ### Databases & Cloud
+
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,aws,docker"/>
 </p>
 
 ### Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,linux,vscode,postman"/>
 </p>
@@ -59,6 +63,14 @@ I'm **Kushagra Pandey**, a Software Engineer focused on backend development, sca
 | DevOps | Docker, AWS, CI/CD, deployment |
 
 ---
+
+## 🎯 Currently
+
+- Strengthening Data Structures & Algorithms.
+- Learning advanced system design.
+- Building practical backend and AI projects.
+- Exploring scalable architecture and distributed systems.
+
 ---
 
 ## 🎮 Featured Project
@@ -71,29 +83,13 @@ A strategy and psychological bluffing game where players hide a treasure bag und
 
 **Think. Bluff. Outsmart. Win.**
 
-<a href="YOUR_HIDETHEBALL_LINK">
+<a href="https://killtheking.vercel.app/">
   <img src="https://img.shields.io/badge/▶%20PLAY%20MY%20GAME-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
 
 ---
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**Open to exciting Software Engineering opportunities and collaborations.**
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
 
 ## 📊 GitHub Statistics
 
@@ -121,18 +117,25 @@ A strategy and psychological bluffing game where players hide a treasure bag und
 
 ---
 
-## 🎯 Currently
+## 📬 Let's Connect
 
-- Strengthening Data Structures & Algorithms.
-- Learning advanced system design.
-- Building practical backend and AI projects.
-- Exploring scalable architecture and distributed systems.
+<div align="center">
+
+**Open to exciting Software Engineering opportunities and collaborations.**
+
+<a href="mailto:kushagrapandeycodes@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kushagra-pandey-66421424a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-
-### Let's Build Something Great.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=3&section=footer" width="100%"/>
 
